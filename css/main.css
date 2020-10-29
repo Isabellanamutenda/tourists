@@ -1,0 +1,52 @@
+.water{
+	position: absolute;
+	font-size: 20px;
+	top: 50%;
+	left: 50%;
+    color: white;
+    text-align: center;
+}
+
+.main.box2{
+	width: 50%;
+	float:right;
+
+	
+}
+body{
+    font-family:sans-serif;
+    color:#777777;
+    line-height:26px;
+    /*text-align:center;*/
+}
+
+ 
+ .half-width{
+  padding-top: 50px;
+}
+.half-width1{
+  /*margin-top: -405px;*/
+  padding-left: 400px;
+}
+
+
+ }
+ .side-img{
+     width:50%;
+     padding-left:25%;
+ }
+
+.side-img{
+     width:50%;
+     padding-right:25%;
+ }
+ h1{
+     font-size:3.5em;
+     text-align: right;
+     color: blue;
+ }
+ .main.box{
+     padding-left:5%;
+     display:inline-block;
+ }
+ 
